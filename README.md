@@ -1,6 +1,7 @@
 ## Python
 🗨python
 
+데이터 분석을 위한
 파이썬 공부
 
 <img src="https://www.hanbit.co.kr/data/books/B5976336809_l.jpg" width="30%">
