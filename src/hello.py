@@ -1,5 +1,3 @@
-first_name = "ada"
-last_name = "lovelace"
-full_name = first_name + " " + last_name
-
-print("Hello, " + full_name.title() + "!")
+a = 3 ** 3
+b = 2 ** 4
+print(a, b)
