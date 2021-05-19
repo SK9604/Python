@@ -1,3 +1,2 @@
-a = 3 ** 3
-b = 2 ** 4
-print(a, b)
+age = 26
+print("Happy " + str(age) + "th Birthday")
