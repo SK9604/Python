@@ -10,3 +10,7 @@ pop_bicycles = bicycles.pop()
 
 print(pop_bicycles)
 print(bicycles)
+
+dele = 'trek'
+bicycles.remove(dele)
+print(bicycles)
