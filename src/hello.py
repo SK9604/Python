@@ -1,4 +1,4 @@
-bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+bicycles = ['cannondale', 'trek', 'redline', 'specialized']
 print(bicycles[1])
 print(bicycles[-1])
 bicycles[1] = 'hello'
@@ -11,6 +11,9 @@ pop_bicycles = bicycles.pop()
 print(pop_bicycles)
 print(bicycles)
 
-dele = 'trek'
+dele = 'cannondale'
 bicycles.remove(dele)
+bicycles.append('do')
+print(bicycles)
+bicycles.sort()
 print(bicycles)
