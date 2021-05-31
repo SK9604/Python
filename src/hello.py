@@ -21,3 +21,6 @@ bicycles.sort(reverse=True)
 print(bicycles)
 print(sorted(bicycles))
 print(len(bicycles))
+
+for bicycle in bicycles:
+    print(bicycle)
