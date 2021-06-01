@@ -23,4 +23,4 @@ print(sorted(bicycles))
 print(len(bicycles))
 
 for bicycle in bicycles:
-    print(bicycle)
+    print(bicycle.title() + ", that was trick!")
