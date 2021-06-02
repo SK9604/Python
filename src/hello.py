@@ -24,3 +24,4 @@ print(len(bicycles))
 
 for bicycle in bicycles:
     print(bicycle.title() + ", that was trick!")
+print("end of for")
